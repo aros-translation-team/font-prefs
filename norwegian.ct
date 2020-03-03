@@ -1,5 +1,5 @@
-## version $VER: Font.catalog 3.1 (27.05.2019)
-## language norwegian
+## version $VER: Font.catalog 3.1 (11.6.2017)
+## language norsk
 ## codeset 0
 ;
 ;
@@ -8,11 +8,11 @@ Kan ikke åpne IFF-strøm!
 ; Can't open IFF stream!
 ;
 MSG_CANT_ALLOCATE_IFFPTR
-Kan ikke allokere IFF-pekere!
+Kan ikke allokere IFF-peker!
 ; Can't allocate IFF handle!
 ;
 MSG_NAME
-Skrifttypeinnstillinger
+Fontinstillinger
 ; Font Preferences
 ;
 MSG_OK
@@ -20,7 +20,7 @@ OK
 ; Ok
 ;
 MSG_ICONS
-Ikoner:
+Icons:
 ; Icons:
 ;
 MSG_SYSTEM
