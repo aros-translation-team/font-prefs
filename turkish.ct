@@ -1,18 +1,18 @@
 ## version $VER: Font.catalog 3.1 (11.6.2017)
-## language türkçe
+## language tÃ¼rkÃ§e
 ## codeset 0
 ;
 ;
 MSG_CANT_OPEN_STREAM
-IFF akışı açılamıyor!
+IFF akÄ±Ã¾Ä± aÃ§Ä±lamÄ±yor!
 ; Can't open IFF stream!
 ;
 MSG_CANT_ALLOCATE_IFFPTR
-IFF işleyicisi ayrılamadı!
+IFF iÅŸleyicisi ayrÄ±lamadÄ±!
 ; Can't allocate IFF handle!
 ;
 MSG_NAME
-Yazı Tipi Terçihleri
+YazÄ± Tipi TerÃ§ihleri
 ; Font Preferences
 ;
 MSG_OK
