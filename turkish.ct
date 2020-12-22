@@ -4,15 +4,15 @@
 ;
 ;
 MSG_CANT_OPEN_STREAM
-IFF ak¹º¹ aç¹lam¹yor!
+IFF akýþý açýlamýyor!
 ; Can't open IFF stream!
 ;
 MSG_CANT_ALLOCATE_IFFPTR
-IFF iºleyicisi ayr¹lamad¹!
+IFF iþleyicisi ayrýlamadý!
 ; Can't allocate IFF handle!
 ;
 MSG_NAME
-Yaz¹ Tipi Terçihleri
+Yazý Tipi Terçihleri
 ; Font Preferences
 ;
 MSG_OK
