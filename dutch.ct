@@ -1,0 +1,32 @@
+## version $VER: Font.catalog 3.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_CANT_OPEN_STREAM
+Kan IFF-stream niet openen!
+; Can't open IFF stream!
+;
+MSG_CANT_ALLOCATE_IFFPTR
+Kan geen IFF-handle reserveren!
+; Can't allocate IFF handle!
+;
+MSG_NAME
+Font Instellingen
+; Font Preferences
+;
+MSG_OK
+Ok
+; Ok
+;
+MSG_ICONS
+Iconen:
+; Icons:
+;
+MSG_SYSTEM
+Systeem:
+; System:
+;
+MSG_SCREEN
+Scherm:
+; Screen:
+;

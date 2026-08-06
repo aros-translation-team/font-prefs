@@ -1,0 +1,32 @@
+## version $VER: Font.catalog 3.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_CANT_OPEN_STREAM
+Ne mogu da otvorim IFF tok!
+; Can't open IFF stream!
+;
+MSG_CANT_ALLOCATE_IFFPTR
+Ne mogu da alociram IFF handle!
+; Can't allocate IFF handle!
+;
+MSG_NAME
+Podeçavanja fontova
+; Font Preferences
+;
+MSG_OK
+Ok
+; Ok
+;
+MSG_ICONS
+Ikone:
+; Icons:
+;
+MSG_SYSTEM
+Sistem:
+; System:
+;
+MSG_SCREEN
+Ekran:
+; Screen:
+;
